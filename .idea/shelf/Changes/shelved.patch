@@ -1,0 +1,11 @@
+Index: test_01.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test_01.py b/test_01.py
+new file mode 100644
+--- /dev/null	(date 1696065575397)
++++ b/test_01.py	(date 1696065575397)
+@@ -0,0 +1,1 @@
++print("hello Github")
